@@ -56,7 +56,7 @@ export class TestService {
         first_name: 'test',
         last_name: 'test',
         email: 'test@example.com',
-        phone: '9999',
+        phone: '99999',
         username: 'test',
       },
     });
